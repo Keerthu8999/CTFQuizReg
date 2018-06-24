@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2bbe7dbce6b4cd517d2817a6aa3f5322\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\36b53819f87ddf726a99c1866cb53cb5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fff6b88f6d7385f1a60a47dbc716b208eef7b0c1">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\add04aa70b22d2e91377fade6c381059\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4cc32b6e6cb8d402772c843eda822835\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\854792e23e724c7ff89e1553d462b9ee\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="63413895dce50f6123807d1db2274a1982a34194">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a9f088ea3bc7e78487a2ae2db3500960\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\abbfe8740ed8cc18f0798cb93cc7bcf0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2a69972573cb7e5cc6b8652bacf981e82b68ff71">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5ef76b1e656412650c848773a1cc2c1e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\dedd39cc85a76ed1e0d600ae529b137f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04a44d20bec92359951d025757218220f93b5d4b">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\36d05dd389454765a287f59036cc6d47\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="481f7c5fbf8121550064cb4795e310034a505e95">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\51b468d491e05c31e6d753569080eb5f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\c668df056d9cf0b2ad7d036887fb4e4b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efe9d64183cd00b0cd3d876383ed177e6b37398c">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\4567c8843f7f9b000364b01c2957ecc5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6bd97fd543ffb061a7d3f2f9d6247f4b5e0017f5">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\962aa75ed2a577a097e19d54d0a7fb24\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a66ffce1d574f71569fedd39d178da5856f0a84b">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f7d1e94a974cab2de36fe73bc6f5d651\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1393aa571078066c77e7093c0bf13b6d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\3dc8959bee07e6112182528722dcd4f0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f03eac74758a738724d98cb4eda0270c1244664a">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6b75b11d9673b6d65138dd42f93b8eb3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\9ea0f08239da56b2bddbc4045a9d307b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1e224748cbf54c34eac0bca6376922468b786775">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.1\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9e1af9ae21ef3813064aae0a5ccea464\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8d813c05361147f6f515f749df19223cd6256314">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\db493d07ed29870d9b428122f7380c5f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\c4b1bc499d873a26bd95d84180819f67\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3e2b946046fb1d10649a06811b870f2eca30ea53">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\40adf210efaa02d06f91760a0d0db5d3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1e9d140d3260619ce2fa991d30b14b531d61dec">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\13c20233af42f059f7d97e49fd3a32b3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\b5d3baaee1eb4f1efe8c994635141a67\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f9148af2391a1288519f4f1d38da060c4a640e85">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\744af1436797b11dce1b6c5fc36a78b7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7c9f3ed917984af2e50b56f65f0398c9e5756035">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\eb02aef76adc70d70600e3cdb619a5f6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a13da3b2de1cb4d43145994271c4d9e6ac060be">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\80f9319b82d5555bffb3df496cc45b3c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5d5bbea28a33abc9373f3d10c7a4607dd580e8bc">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b8bbd33ad19303ddb23731107fe86a18\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.1\cece6996f6bc526ed0d8453a43765bcf8f2b6018\constraint-layout-solver-1.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cece6996f6bc526ed0d8453a43765bcf8f2b6018">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\053e75b6790ad01500100670c70c85ff\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d4d98a0428b2e620e6b4a228ef9f7cb2f0debd2">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\4c9c57e30b765938fb2915dfe63d61e3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0fbef528093d3d19b229116b683bd2a66d4aeae1">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\982563595f2aa8e779c30bfab58bae0d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a88b99a814eeb72fec22b867c1904b2f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\RegisterAndQuiz\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+
+</items>
