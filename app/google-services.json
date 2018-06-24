@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "102892880111",
+    "firebase_url": "https://registerandquiz.firebaseio.com",
+    "project_id": "registerandquiz",
+    "storage_bucket": "registerandquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102892880111:android:fb493debf1ebb93d",
+        "android_client_info": {
+          "package_name": "com.example.dell.registerandquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102892880111-jg08hcljisalfjcenb2dgj01oq5o41h8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "102892880111-jg08hcljisalfjcenb2dgj01oq5o41h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATRiK4Ey3nkWh3fZJy7WaMNjDVSyc7eho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
